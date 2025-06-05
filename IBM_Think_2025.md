@@ -1,0 +1,141 @@
+# IBM Accelerates Enterprise Gen AI Revolution with Hybrid Capabilities
+
+• Build AI agents in 5 minutes with industry’s most comprehensive set of agent capabilities
+• Drive 176% ROI over three years by automating integration across hybrid cloud
+• Turn enterprise data into the most powerful tool with new watsonx.data, which can lead to 40% more accurate AI agents
+• Accelerate secured, scalable AI with 450 billion inference operations per day on new LinuxONE 5
+May 6, 2025
+
+ARMONK, N.Y., May 6, 2025 /PRNewswire/ -- Today at the company's annual THINK event, IBM (NYSE: IBM) is unveiling new hybrid technologies that break down the longstanding barriers to scaling enterprise AI – enabling businesses to build and deploy AI agents with their own enterprise data.
+
+IBM estimates that over one billion apps will emerge by 2028, putting pressure on businesses to scale across increasingly fragmented environments. This requires seamless integration, orchestration and data readiness.
+
+A new IBM CEO study shows that business leaders expect the growth rate of AI investments to more than double over the next two years, with most actively adopting AI agents and preparing to scale them. Yet their pace of investments has led to disconnected technology – and only 25% of AI initiatives have achieved the ROI they expected.  
+
+IBM is combining hybrid technologies, agent capabilities and deep industry expertise from IBM Consulting to help businesses operationalize AI.  
+
+"The era of AI experimentation is over. Today's competitive advantage comes from purpose-built AI integration that drives measurable business outcomes," said Arvind Krishna, Chairman and CEO, IBM. "IBM is equipping enterprises with hybrid technologies that cut through complexity and accelerate production-ready AI implementations."
+
+## Build AI agents in watsonx Orchestrate that work with 80+ leading business applications
+
+AI agents are shifting from AI that chats with you to systems that work for you, yet many enterprises will struggle to integrate them across diverse environments, apps, and data. IBM is providing a comprehensive suite of enterprise-ready agent capabilities in watsonx Orchestrate to help businesses put them into action. The portfolio includes:
+
+- **Build-your-own-agent in under five minutes**, with tooling that makes it easier to integrate, customize and deploy agents built on any framework – from no-code to pro-code tools for any kind of user.1
+- **Pre-built domain agents** specialized in areas like HR, sales and procurement – with utility agents for simpler actions like web research and calculations.2
+- **Integration** with 80+ leading enterprise applications from providers like Adobe, AWS, Microsoft, Oracle, Salesforce Agentforce, SAP, ServiceNow, and Workday.
+- **Agent orchestration** to handle the multi-agent, multi-tool coordination needed to tackle complex projects like planning workflows and routing tasks to the right AI tools across vendors.
+- **Agent observability** for performance monitoring, guardrails, model optimization, and governance across the entire agent lifecycle.3
+
+IBM is also introducing the new **Agent Catalog in watsonx Orchestrate**4 to simplify access to 150+ agents and pre-built tools from both IBM and its wide ecosystem of partners, which includes Box, MasterCard, Oracle, Salesforce, ServiceNow, Symplistic.ai, 11x and more. For example, the catalog will include a sales agent for discovering and importing prospects that works with and is available in Salesforce's Agentforce and a conversational HR agent that can be embedded in Slack.
+
+## Forrester TEI projects 176% ROI over three years by automating integration of apps, APIs, events, and more across hybrid cloud
+
+As AI adoption accelerates, integration remains a major challenge. Most enterprises rely on a patchwork of APIs, apps, and systems spread across on-prem and multi-cloud environments – many of which weren't built to work together.  
+
+IBM is introducing **webMethods Hybrid Integration**5, a next-generation solution that replaces rigid workflows with intelligent and agent-driven automation. It will help users manage the sprawl of integrations across apps, APIs, B2B partners, events, gateways, and file transfers in hybrid cloud environments.
+
+An independent Forrester Consulting Total Economic Impact (TEI) study found that a composite organization representative of interviewed customers who adopted multiple webMethods integration capabilities realized over three years6:
+
+- 176% ROI, plus unquantified benefits such as ease of use, reduced training costs, and improved visibility and security posture
+- 40% reduction in downtime
+- 33% time savings on complex projects
+- 67% time savings on simple projects
+
+This complements IBM's broader automation portfolio, which spans application development and integration, infrastructure automation and technology business management. Integrations with HashiCorp – including Terraform for infrastructure provisioning and Vault for secrets management – will enhance automation across hybrid environments to support secure configuration, consistent policy enforcement, and scalable operations. Tools like IBM Concert Resilience Posture, along with watsonx and Red Hat technologies, give organizations an intelligent, unified way to manage operations and accelerate AI across hybrid clouds.
+
+## Unlocking unstructured data for generative AI
+
+Unstructured data – buried in contracts, spreadsheets, and presentations – is one of the most valuable but underutilized resources in the enterprise. IBM is evolving watsonx.data to help organizations activate this data to drive more accurate, effective AI.7
+
+The new **watsonx.data** will bring together an open data lakehouse with data fabric capabilities – like data lineage tracking and governance – to help clients unify, govern, and activate data across silos, formats, and clouds. Enterprises will be able to connect their AI apps and agents with their unstructured data using watsonx.data, which tests show can lead to 40% more accurate AI than conventional RAG.8
+
+IBM is also introducing **watsonx.data integration***, a single-interface tool for orchestrating data across formats and pipelines, and **watsonx.data intelligence**, which uses AI-powered technology to extract deep insights from unstructured data.9 They will be available as standalone products, with select capabilities also available through watsonx.data – maximizing client choice and modularity.
+
+To complement these products, IBM recently announced its intent to acquire DataStax, which excels at harnessing unstructured data for generative AI. With DataStax, clients can access additional vector search capabilities. Further, watsonx is now integrated as an API provider within Meta's Llama Stack, enhancing enterprises' ability to deploy generative AI at scale and with openness at the core.
+
+IBM's new **content-aware storage (CAS)** capability is now available as a service on IBM Fusion, with support for IBM Storage Scale coming in 3Q. This provides ongoing contextual processing of unstructured data to make extracted information easily available to RAG applications for faster-time-to-inferencing.
+
+## Infrastructure for AI scale
+
+IBM is launching IBM LinuxONE 5, its most secure and performant Linux platform for data, applications, and trusted AI – with the ability to process up to 450 billion AI inference operations per day.10 IBM LinuxONE 5's innovations include: 
+
+- **IBM's State-of-the-art AI accelerators**, including IBM's Telum II on-chip AI processor and the IBM Spyre Accelerator (available 4Q 2025 via PCIe card), to enable generative and high-volume AI applications such as transactional workloads.
+- **Advanced security offerings** with confidential containers to help clients protect their data and new integrations with IBM's pioneering quantum-safe encryption technology to address quantum-enabled cybersecurity attacks.
+- **Significant reductions in costs and power consumption**, moving cloud-native, containerized workloads from a compared x86 solution to an IBM LinuxONE 5 running the same software products can save up to 44% on the total cost of ownership over 5 years.11
+
+IBM has also expanded its GPU, accelerator and storage collaborations with **AMD, CoreWeave, Intel, and NVIDIA** to provide new solutions for compute-intensive workloads and AI-enhanced data.
+
+To see all THINK news, visit the IBM Newsroom.
+
+Statements regarding IBM's future direction and intent are subject to change or withdrawal without notice and represent goals and objectives only.
+
+## About IBM
+
+IBM is a leading provider of global hybrid cloud and AI, and consulting expertise. We help clients in more than 175 countries capitalize on insights from their data, streamline business processes, reduce costs, and gain a competitive edge in their industries. Thousands of governments and corporate entities in critical infrastructure areas such as financial services, telecommunications and healthcare rely on IBM's hybrid cloud platform and Red Hat OpenShift to affect their digital transformations quickly, efficiently, and securely. IBM's breakthrough innovations in AI, quantum computing, industry-specific cloud solutions and consulting deliver open and flexible options to our clients. All of this is backed by IBM's long-standing commitment to trust, transparency, responsibility, inclusivity, and service. Visit www.ibm.com for more information.
+
+Access a suite of social assets to share across your business and personal channels in our creative toolkit.
+
+1 Planned availability for agent builder capabilities in June 2025
+2 HR agent now generally available. Planned availability for sales & procurement agents in June 2025.
+3 Planned availability for agent observability capabilities June 2025
+4 Planned availability for agent catalog June 2025
+5 Planned availability for webMethods Hybrid Integration in June 2025
+6 Forrester Consulting, The Total Economic Impact™ of IBM webMethods, a commissioned study conducted by Forrester Consulting on behalf of IBM, 2024
+7 Planned availability for new watsonx.data in June 2025
+8 Based on IBM internal testing comparing the answer correctness of AI model outputs using watsonx.data Premium Edition retrieval layer to vector-only RAG on three common use cases with IBM proprietary datasets using the same set of selected opensource commodity inferencing, judging and embedding models and additional variables. Results can vary.
+9 Planned availability for watsonx.integration and watsonx.data intelligence in June 2025.
+10 Performance result is extrapolated from IBM internal tests running on IBM Systems Hardware of machine type 9175. The benchmark was executed with 1 thread performing local inference operations using a LSTM based synthetic Credit Card Fraud Detection model to exploit the Integrated Accelerator for AI. A batch size of 160 was used. IBM Systems Hardware configuration: 1 LPAR running Red Hat® Enterprise Linux® 9.4 with 6 cores (SMT), 128 GB memory. Results may vary.
+11 IBM® internal performance tests for the core consolidation study targeted a comparison of the following servers. IBM Machine Type 9175 MAX 136 system consisting of three CPC drawers containing 136 configurable processor units and six I/O drawers to support both network and external storage. The x86 solution used a commercially available enterprise server with two 5th generation Intel® Xeon® Platinum 8592+ processors, 64 cores per CPU. Both solutions had access to the same storage. Results may vary. The test results were extrapolated to a typical, complete customer IT solution that includes isolated from each other production and non-production IT environments. TCO included software, hardware, energy, network, data center space, and labor costs. On the IBM z17 side the complete solution requires one IBM z17 Type 9175 MAX 136, and on x86 side, the complete IT solution requires 23 compared servers.
+
+### Media Contact: 
+
+Amy Angelini
+IBM
+alangeli@us.ibm.com 
+
+### IBM client and partner testimonials: 
+
+**Avid Solutions**, Malcolm Adams, CEO  
+"As labor markets tighten and skills gaps widen, agentic AI will help advance the intelligent workforce and have a profound impact on ecosystems and economies. We've used watsonx Orchestrate on AWS to automate repetitive tasks for customer service, project management and accounting, but we're most excited about the enormous impact agentic AI and networks of agents working together will have on large scale challenges such as global supply chains. Watsonx provides the foundation for trustworthy AI while AWS provides the power to scale globally to transform entire industries." 
+
+**Banco de Brasil**, Paulo Andre, Chief Technology Officer 
+"By leveraging IBM Z, LinuxONE, and Red Hat Openshift as part of our hybrid cloud strategy, Banco de Brasil has transformed how we serve our customers. With accelerated data processing, real-time insights, and resilient infrastructure across two separated data centers, we can deliver faster, personalized services while strengthening operational efficiency and business continuity to mitigate risk." - Paulo Andre, Chief Technology Officer, Banco de Brasil 
+
+**BNP Paribas, Jean-Michel Garcia, Group Chief Technology Officer**
+"At BNP Paribas, building resilient and secure cloud foundations is key to supporting the bank's digital transformation and delivering reliable services to our clients. Our extended partnership with IBM Cloud contributes to this effort and helps us accelerate our cloud-native strategy. These solid infrastructures are also an essential enabler for scaling generative AI use cases, across our businesses." Jean-Michel Garcia, Group Chief Technology Officer, BNP Paribas
+
+**Cencora**, Pawan Verma, Executive Vice President and Chief Data and Information Officer
+"In today's increasingly complex and ever-changing healthcare landscape, Cencora plays a vital role in advancing pharmaceutical innovation and access, helping our healthcare customers and their patients have timely and reliable access to the medicines they need," said Pawan Verma, Executive Vice President and Chief Data and Information Officer, Cencora. "Our strategic digital transformation, powered by collaborations with technology leaders like IBM, will help streamline, improve, and digitize end-to-end business processes, supporting our continued growth and enabling us to deliver an enhanced 'high-touch and high-tech' customer experience." 
+
+**Dynamiq**, Vitalii Duk, Founder & CEO  
+"At Dynamiq, we're helping AI builders move faster from idea to deployment by using IBM watsonx capabilities alongside our platform. With the latest Granite models in watsonx.ai and embed tools and vector databases in watsonx.data, AI engineers using Dynamiq platform can rapidly prototype and deploy RAG systems, AI agents, and LLM applications. And with watsonx.governance, we're giving teams the power to move fast – with built in trust and transparency." 
+
+**EY**, Martin Fiore, EY Americas Deputy Vice Chair – Tax  
+"Tax compliance is a critical yet complex function for corporations that has long been associated with time-consuming and manual processes. Our collaboration with IBM connects the organization's leading technology with EY's deep domain expertise to deploy distinct AI-enabled tax solutions that enable workflow automation and unlocks data-driven insights for tax teams. We look forward to working with IBM to continue enhancing these solutions, using emerging technology to expand to other tax processes and ultimately helping businesses improve efficiency, cost and quality." 
+
+**Honda**, J Schumacher, Global Lead, Enterprise Architecture 
+"At Honda, we are committed to scaling AI in a way that is responsible, human-centered, and deeply rooted in our core values of safety, trust, and respect for individuals," said J Schumacher, Global Lead, Enterprise Architecture, American Honda Motor Co., Inc. "We are collaborating with IBM Consulting to help us shape the strategy and governance needed to scale AI responsibly and deliver lasting, meaningful impact across our organization." 
+
+**Lockheed Martin**, John Clark, senior vice president of Technology and Strategic Innovation  
+"Through our Lockheed Martin AI Factory, we closely collaborate with leaders in commercial technology like IBM to deploy powerful AI solutions at scale for our national security customers," said John Clark, senior vice president of Technology and Strategic Innovation at Lockheed Martin. "At the same time we are transforming our internal operations through AI tools to channel the ingenuity of our 70,000 engineers, scientists and technicians in ways that rapidly accelerate our innovation and efficiency, to get solutions out of the lab and into the field, helping create a safer, more secure world." 
+
+**Lumen**, Kate Johnson, president and CEO  
+"Our edge network spans the U.S., giving businesses fast, direct access to their critical data and major cloud providers," said Kate Johnson, president and CEO at Lumen Technologies. "By teaming up with IBM, we're making it possible to run powerful AI applications without the added costs or risks of relying solely on the public cloud. It's a faster, safer way for companies to bring generative AI and other groundbreaking digital tools into their everyday operations." 
+
+**PepsiCo**, Magesh Bagavathi, SVP, Global Head of Data, Analytics & AI
+"PepsiCo is leading the AI transformation in the CPG industry, integrating it across the value chain to deliver meaningful impact for both our people and our customers. In collaboration with IBM Consulting, we've developed a robust generative AI platform designed to accelerate business value. By leveraging the full power of our ecosystem, this capability drives smarter decision-making, faster innovation, and a more connected, intelligent future."
+ 
+**Slack**, Peter Doolan, Chief Customer Officer  
+"Every employee requires more agile solutions so they can get their work done at peak efficiency," said Peter Doolan, Chief Customer Officer of Slack at Salesforce. "By working with partners like IBM to bring AI-powered solutions and agents into Slack, we're delivering a seamless employee support experience that empowers users to focus on the high-impact work that truly matters." 
+
+**State Street**, Mostapha Tahiri, Executive Vice President and Chief Operating Officer 
+"At State Street, we continue our transformation to a more robust, data-led, global financial services leader and are seeing the tremendous potential AI provides to shape investment services and investment management for the future," said Mostapha Tahiri, Executive Vice President and Chief Operating Officer at State Street. "Unlocking the full value of AI begins with a strong, enterprise-wide data foundation, and we share a commitment with IBM to responsible innovation in the AI and data landscape." 
+
+**UFC**, Alon Cohen, Senior Vice President, UFC Research and Development  
+"IBM's deep expertise in data and technology made them a clear choice to serve as UFC's Official Enterprise AI Partner and help bring the UFC Insights Engine to life. Using watsonx, we're transforming years of fight data into compelling storylines – creating a newer and more dynamic layer of engagement between UFC's global viewing audience and the action in the Octagon, taking the UFC experience to the next level." 
+
+**Uptok**, Kashif Zaman, CEO  
+"The reality is, enterprise buyers aren't just evaluating AI—they're evaluating judgment. IBM gives us the foundation to demonstrate both. In AI, getting to eighty percent is fast. But in the enterprise, the final ten percent—performance, reliability, control—is where trust is made or lost. We didn't pick IBM because it had the flashiest model—we picked it because it fits how we build AI." 
+
+**USAA**, Ramnik Bajaj, Chief Data Analytics and Artificial Intelligence Officer  
+"At USAA, our unrelenting focus is on serving our members with excellence, and we are always looking for opportunities to implement the power of AI and data to further that goal," said USAA Chief Data Analytics and Artificial Intelligence Officer Ramnik Bajaj. "In collaboration with IBM, we are working on ways to integrate structured and unstructured data at scale, to enable intelligent automation in processes like underwriting, claims, member feedback analysis and others that involve complex documents and require extensive processing. This will allow us to provide faster, more personalized service to our members and create more efficient workflows for our teams." 

@@ -1,0 +1,176 @@
+created_by: tomoki nakamura
+version: 3
+domain: IBM
+document_outline: Summary of the product announcement in IBM Think 2025
+seed_examples:
+  - context: >-
+      ARMONK, N.Y., May 6, 2025 /PRNewswire/ -- Today at the company's annual THINK event, IBM (NYSE: IBM) is unveiling new hybrid technologies that break down the longstanding barriers to scaling enterprise AI – enabling businesses to build and deploy AI agents with their own enterprise data.
+      
+      IBM estimates that over one billion apps will emerge by 2028, putting pressure on businesses to scale across increasingly fragmented environments. This requires seamless integration, orchestration and data readiness.
+      
+      A new IBM CEO study shows that business leaders expect the growth rate of AI investments to more than double over the next two years, with most actively adopting AI agents and preparing to scale them. Yet their pace of investments has led to disconnected technology – and only 25% of AI initiatives have achieved the ROI they expected.  
+      
+      IBM is combining hybrid technologies, agent capabilities and deep industry expertise from IBM Consulting to help businesses operationalize AI.  
+      
+      "The era of AI experimentation is over. Today's competitive advantage comes from purpose-built AI integration that drives measurable business outcomes," said Arvind Krishna, Chairman and CEO, IBM. "IBM is equipping enterprises with hybrid technologies that cut through complexity and accelerate production-ready AI implementations."
+    questions_and_answers:
+      - question: >-
+          While many companies are actively adopting AI agents and preparing to
+          scale, according to the latest survey by IBM’s CEO announced at IBM
+          Think 2025, what percentage of AI initiatives have achieved the
+          expected ROI from AI investments?
+        answer: 25%
+      - question: >-
+          According to IBM Think 2025, how many apps does IBM predict will
+          emerge by 2028?
+        answer: Over 1 billion.
+      - question: >-
+          According to IBM Think 2025 and the latest CEO survey, by how much do
+          business leaders expect AI investment growth to increase over the next
+          two years?
+        answer: More than double.
+  - context: >-
+      Build AI agents in watsonx Orchestrate that work with 80+ leading business applications
+      
+      AI agents are shifting from AI that chats with you to systems that work for you, yet many enterprises will struggle to integrate them across diverse environments, apps, and data. IBM is providing a comprehensive suite of enterprise-ready agent capabilities in watsonx Orchestrate to help businesses put them into action. The portfolio includes:
+      
+      Build-your-own-agent in under five minutes, with tooling that makes it easier to integrate, customize and deploy agents built on any framework – from no-code to pro-code tools for any kind of user.1
+      Pre-built domain agents specialized in areas like HR, sales and procurement – with utility agents for simpler actions like web research and calculations.2
+      Integration with 80+ leading enterprise applications from providers like Adobe, AWS, Microsoft, Oracle, Salesforce Agentforce, SAP, ServiceNow, and Workday.
+      Agent orchestration to handle the multi-agent, multi-tool coordination needed to tackle complex projects like planning workflows and routing tasks to the right AI tools across vendors.
+      Agent observability for performance monitoring, guardrails, model optimization, and governance across the entire agent lifecycle.3
+      IBM is also introducing the new Agent Catalog in watsonx Orchestrate4 to simplify access to 150+ agents and pre-built tools from both IBM and its wide ecosystem of partners, which includes Box, MasterCard, Oracle, Salesforce, ServiceNow, Symplistic.ai, 11x and more. For example, the catalog will include a sales agent for discovering and importing prospects that works with and is available in Salesforce's Agentforce and a conversational HR agent that can be embedded in Slack.
+    questions_and_answers:
+      - question: >-
+          According to IBM Think 2025, how quickly can you build a custom agent
+          using any framework, from no-code to pro-code tools with Watsonx
+          Orchestrate?
+        answer: In under 5 minutes.
+      - question: >-
+          Watsonx Orchestrate includes pre-built domain-specific agents. Which
+          business areas were highlighted at IBM Think 2025?
+        answer: HR, Sales, and Procurement.
+      - question: >-
+          IBM Think 2025 mentioned that Watsonx Orchestrate can integrate with
+          enterprise applications from various providers such as Adobe, AWS,
+          Microsoft, Oracle, Salesforce, SAP, ServiceNow, and Workday. How many
+          providers does it support integration with?
+        answer: Over 80.
+      - question: >-
+          IBM announced that Watsonx Orchestrate will offer an enterprise-grade, comprehensive suite of agent capabilities to help organizations leverage AI agents. What are some of the features included in the Watsonx Orchestrate portfolio, as announced at IBM Think 2025?
+        answer: >-
+          1. Build-your-own-agent in under five minutes, with tooling that makes it easier to integrate, customize and deploy agents built on any framework – from no-code to pro-code tools for any kind of user.
+          2. Pre-built domain agents specialized in areas like HR, sales and procurement – with utility agents for simpler actions like web research and calculations.
+          3. Integration with 80+ leading enterprise applications from providers like Adobe, AWS, Microsoft, Oracle, Salesforce Agentforce, SAP, ServiceNow, and Workday.
+          4. Agent orchestration to handle the multi-agent, multi-tool coordination needed to tackle complex projects like planning workflows and routing tasks to the right AI tools across vendors.
+          5. Agent observability for performance monitoring, guardrails, model optimization, and governance across the entire agent lifecycle.
+      - question: >-
+          At IBM Think 2025, IBM announced the introduction of a new Agent Catalog in Watsonx Orchestrate. Can you provide two examples of agents included in this catalog?
+        answer: >-
+          At IBM Think 2025, it was announced that the newly introduced Agent Catalog in Watsonx Orchestrate includes the following agents:
+              1. sales agent for discovering and importing prospects that works with and is available in Salesforce's Agentforce
+              2. conversational HR agent that can be embedded in Slack.
+  - context: >-
+      Forrester TEI projects 176% ROI over three years by automating integration of apps, APIs, events, and more across hybrid cloud
+      As AI adoption accelerates, integration remains a major challenge. Most enterprises rely on a patchwork of APIs, apps, and systems spread across on-prem and multi-cloud environments – many of which weren't built to work together.  
+      IBM is introducing webMethods Hybrid Integration5, a next-generation solution that replaces rigid workflows with intelligent and agent-driven automation. It will help users manage the sprawl of integrations across apps, APIs, B2B partners, events, gateways, and file transfers in hybrid cloud environments.
+      An independent Forrester Consulting Total Economic Impact (TEI) study found that a composite organization representative of interviewed customers who adopted multiple webMethods integration capabilities realized over three years6:
+          176% ROI, plus unquantified benefits such as ease of use, reduced training costs, and improved visibility and security posture
+          40% reduction in downtime
+          33% time savings on complex projects
+          67% time savings on simple projects
+      This complements IBM's broader automation portfolio, which spans application development and integration, infrastructure automation and technology business management. Integrations with HashiCorp – including Terraform for infrastructure provisioning and Vault for secrets management – will enhance automation across hybrid environments to support secure configuration, consistent policy enforcement, and scalable operations. Tools like IBM Concert Resilience Posture, along with watsonx and Red Hat technologies, give organizations an intelligent, unified way to manage operations and accelerate AI across hybrid clouds.
+    questions_and_answers:
+      - question: >-
+          According to IBM Think 2025, what ROI did the Forrester TEI study
+          project over three years by automating integration across
+          applications, APIs, and events in a hybrid cloud environment?
+        answer: 176% return on investment.
+      - question: >-
+          At IBM Think 2025, IBM introduced a next-generation solution that
+          replaces traditional rigid workflows with intelligent, agent-driven
+          automation. What is the name of this solution?
+        answer: webMethods Hybrid Integration.
+      - question: >-
+          At IBM Think 2025, what key results were shared from the Forrester TEI
+          study on a composite organization using multiple webMethods
+          integration capabilities?
+        answer: >-
+          The study reported a 176% ROI over three years, along with
+          qualitative benefits such as improved usability, reduced training
+          costs, enhanced visibility, and a stronger security posture.
+
+          Additionally, it achieved a 40% reduction in downtime, 33% time
+      - question: >-
+          According to the Forrester TEI study, what are four key outcomes achieved by customers who adopted webMethods integration capabilities?
+        answer: >-
+          According to the Forrester TEI study, a composite organization representing interviewed customers that adopted multiple webMethods integration capabilities achieved the following outcomes over three years:
+              - 176% ROI, plus unquantified benefits such as ease of use, reduced training costs, and improved visibility and security posture
+              - 40% reduction in downtime
+              - 33% time savings on complex projects
+              - 67% time savings on simple projects
+  - context: >-
+      Unlocking unstructured data for generative AI
+      
+      Unstructured data – buried in contracts, spreadsheets, and presentations – is one of the most valuable but underutilized resources in the enterprise. IBM is evolving watsonx.data to help organizations activate this data to drive more accurate, effective AI.7
+      
+      The new watsonx.data will bring together an open data lakehouse with data fabric capabilities – like data lineage tracking and governance – to help clients unify, govern, and activate data across silos, formats, and clouds. Enterprises will be able to connect their AI apps and agents with their unstructured data using watsonx.data, which tests show can lead to 40% more accurate AI than conventional RAG.8
+      
+      IBM is also introducing watsonx.data integration, a single-interface tool for orchestrating data across formats and pipelines, and watsonx.data intelligence, which uses AI-powered technology to extract deep insights from unstructured data.9 They will be available as standalone products, with select capabilities also available through watsonx.data – maximizing client choice and modularity.
+      
+      To complement these products, IBM recently announced its intent to acquire DataStax, which excels at harnessing unstructured data for generative AI. With DataStax, clients can access additional vector search capabilities. Further, watsonx is now integrated as an API provider within Meta's Llama Stack, enhancing enterprises' ability to deploy generative AI at scale and with openness at the core.
+      
+      IBM's new content-aware storage (CAS) capability is now available as a service on IBM Fusion, with support for IBM Storage Scale coming in 3Q. This provides ongoing contextual processing of unstructured data to make extracted information easily available to RAG applications for faster-time-to-inferencing.
+    questions_and_answers:
+      - question: >-
+          According to IBM Think 2025, what is the name of the unified interface
+          tool within watsonx.data that orchestrates data across various formats
+          and pipelines?
+        answer: watsonx.data integration.
+      - question: >-
+          At IBM Think 2025, IBM introduced a tool that uses AI-powered
+          technologies to extract deep insights from unstructured data. What is
+          the name of this tool?
+        answer: watsonx.data intelligence.
+      - question: >-
+          According to IBM Think 2025, when will support for IBM Storage Scale
+          begin?
+        answer: In the third quarter of 2025.
+      - question: >-
+          Content-Aware Storage (CAS) capabilities are now available as a service within IBM Fusion. According to IBM Think 2025, what benefits can be expected from CAS?
+        answer: IBM's new content-aware storage (CAS) capability is now available as a service on IBM Fusion, with support for IBM Storage Scale coming in 3Q. This provides ongoing contextual processing of unstructured data to make extracted information easily available to RAG applications for faster-time-to-inferencing.
+  - context: >-
+      Infrastructure for AI scale
+      
+      IBM is launching IBM LinuxONE 5, its most secure and performant Linux platform for data, applications, and trusted AI – with the ability to process up to 450 billion AI inference operations per day.10 IBM LinuxONE 5's innovations include: 
+      
+      IBM's State-of-the-art AI accelerators, including IBM's Telum II on-chip AI processor and the IBM Spyre Accelerator (available 4Q 2025 via PCIe card), to enable generative and high-volume AI applications such as transactional workloads.
+      Advanced security offerings with confidential containers to help clients protect their data and new integrations with IBM's pioneering quantum-safe encryption technology to address quantum-enabled cybersecurity attacks.
+      Significant reductions in costs and power consumption, moving cloud-native, containerized workloads from a compared x86 solution to an IBM LinuxONE 5 running the same software products can save up to 44% on the total cost of ownership over 5 years.11
+      IBM has also expanded its GPU, accelerator and storage collaborations with AMD, CoreWeave, Intel, and NVIDIA to provide new solutions for compute-intensive workloads and AI-enhanced data.
+      
+      To see all THINK news, visit the IBM Newsroom.
+      
+      Statements regarding IBM's future direction and intent are subject to change or withdrawal without notice and represent goals and objectives only.
+    questions_and_answers:
+      - question: >-
+          According to IBM Think 2025, how many AI inference operations per day
+          can IBM LinuxONE 5 — the most secure and high-performance Linux
+          platform for data, applications, and trusted AI — handle?
+        answer: Up to 450 billion operations per day.
+      - question: >-
+          When will the IBM Telum II on-chip AI processor and the IBM Spyre
+          Accelerator be available via PCIe cards, as announced at IBM Think
+          2025?
+        answer: In the fourth quarter of 2025.
+      - question: >-
+          At IBM Think 2025, it was stated that migrating cloud-native
+          containerized workloads from comparable x86 solutions to IBM LinuxONE
+          5 — running the same software — can reduce total cost of ownership
+          over five years by how much?
+        answer: By 44%.
+document:
+  repo:
+  commit:
+  patterns:
+    -
