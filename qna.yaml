@@ -155,6 +155,6 @@ seed_examples:
         answer: By 44%.
 document:
   repo: https://github.com/centervi/IBM_instructlab_THINK2025
-  commit: 
+  commit: 40b2f30ca04af63092701bbc4f390856ad60418e
   patterns:
     - IBM_Think_2025.md
