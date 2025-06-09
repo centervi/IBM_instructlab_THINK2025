@@ -153,7 +153,7 @@ seed_examples:
           over five years by how much?
         answer: By 44%.
 document:
-  repo: https://github.com/centervi/IBM_instructlab_THINK2025
-  commit: 3c7504ecc31bcf29ae349049ee4024382fa9e596
+  repo: https://github.com/centervi/IBM_instructlab_THINK2025/tree/dev_mnakayama
+  commit: b932099d302bfc66a37e95e2721ed4e4d6436824
   patterns:
   - IBM_Think_2025.md
