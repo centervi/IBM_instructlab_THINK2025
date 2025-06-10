@@ -7,7 +7,7 @@ seed_examples:
       ARMONK, N.Y., May 6, 2025 /PRNewswire/ -- Today at the company's annual THINK event, IBM (NYSE: IBM) is unveiling new hybrid technologies that break down the longstanding barriers to scaling enterprise AI - enabling businesses to build and deploy AI agents with their own enterprise data.
       IBM estimates that over one billion apps will emerge by 2028, putting pressure on businesses to scale across increasingly fragmented environments. This requires seamless integration, orchestration and data readiness.
       A new IBM CEO study shows that business leaders expect the growth rate of AI investments to more than double over the next two years, with most actively adopting AI agents and preparing to scale them. Yet their pace of investments has led to disconnected technology - and only 25% of AI initiatives have achieved the ROI they expected.
-      IBM is combining hybrid technologies, agent capabilities and deep industry expertise from IBM Consulting to help businesses operationalize AI.  
+      IBM is combining hybrid technologies, agent capabilities and deep industry expertise from IBM Consulting to help businesses operationalize AI.
       "The era of AI experimentation is over. Today's competitive advantage comes from purpose-built AI integration that drives measurable business outcomes," said Arvind Krishna, Chairman and CEO, IBM. "IBM is equipping enterprises with hybrid technologies that cut through complexity and accelerate production-ready AI implementations."
     questions_and_answers:
       - question: >-
@@ -66,7 +66,7 @@ seed_examples:
               2. conversational HR agent that can be embedded in Slack.
   - context: >-
       Forrester TEI projects 176% ROI over three years by automating integration of apps, APIs, events, and more across hybrid cloud
-      As AI adoption accelerates, integration remains a major challenge. Most enterprises rely on a patchwork of APIs, apps, and systems spread across on-prem and multi-cloud environments - many of which weren't built to work together.  
+      As AI adoption accelerates, integration remains a major challenge. Most enterprises rely on a patchwork of APIs, apps, and systems spread across on-prem and multi-cloud environments - many of which weren't built to work together.
       IBM is introducing webMethods Hybrid Integration5, a next-generation solution that replaces rigid workflows with intelligent and agent-driven automation. It will help users manage the sprawl of integrations across apps, APIs, B2B partners, events, gateways, and file transfers in hybrid cloud environments.
       An independent Forrester Consulting Total Economic Impact (TEI) study found that a composite organization representative of interviewed customers who adopted multiple webMethods integration capabilities realized over three years6:
           176% ROI, plus unquantified benefits such as ease of use, reduced training costs, and improved visibility and security posture
