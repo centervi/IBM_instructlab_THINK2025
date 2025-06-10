@@ -129,7 +129,7 @@ seed_examples:
         answer: IBM's new content-aware storage (CAS) capability is now available as a service on IBM Fusion, with support for IBM Storage Scale coming in 3Q. This provides ongoing contextual processing of unstructured data to make extracted information easily available to RAG applications for faster-time-to-inferencing.
   - context: >-
       Infrastructure for AI scale
-      IBM is launching IBM LinuxONE 5, its most secure and performant Linux platform for data, applications, and trusted AI - with the ability to process up to 450 billion AI inference operations per day.10 IBM LinuxONE 5's innovations include: 
+      IBM is launching IBM LinuxONE 5, its most secure and performant Linux platform for data, applications, and trusted AI - with the ability to process up to 450 billion AI inference operations per day.10 IBM LinuxONE 5's innovations include:
       IBM's State-of-the-art AI accelerators, including IBM's Telum II on-chip AI processor and the IBM Spyre Accelerator (available 4Q 2025 via PCIe card), to enable generative and high-volume AI applications such as transactional workloads.
       Advanced security offerings with confidential containers to help clients protect their data and new integrations with IBM's pioneering quantum-safe encryption technology to address quantum-enabled cybersecurity attacks.
       Significant reductions in costs and power consumption, moving cloud-native, containerized workloads from a compared x86 solution to an IBM LinuxONE 5 running the same software products can save up to 44% on the total cost of ownership over 5 years.11
