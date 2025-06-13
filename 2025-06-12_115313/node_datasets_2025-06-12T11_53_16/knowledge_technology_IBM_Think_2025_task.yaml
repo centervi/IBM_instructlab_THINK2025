@@ -1,0 +1,26 @@
+dataset_kwargs:
+  data_files:
+    test: /Users/aa452797/execution/Client_Engineering/Projects/Auto_IP/JFE/251Q_InstructLab/3Q25IBM_Think_Target_Local/generated_data/2025-06-12_115313/node_datasets_2025-06-12T11_53_16/mmlubench_knowledge_technology_IBM_Think_2025.jsonl
+dataset_name: null
+dataset_path: json
+doc_to_choice: '{{[choices[0], choices[1], choices[2], choices[3]]}}'
+doc_to_target: '{{answer}}'
+doc_to_text: '{{question.strip()}}
+
+  A. {{choices[0]}}
+
+  B. {{choices[1]}}
+
+  C. {{choices[2]}}
+
+  D. {{choices[3]}}
+
+  Answer:'
+metric_list:
+- aggregation: mean
+  higher_is_better: 'true'
+  metric: acc
+output_type: multiple_choice
+tag: mmlu_pr
+task: knowledge_technology_IBM_Think_2025
+test_split: test
